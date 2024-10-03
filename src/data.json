@@ -1,0 +1,121 @@
+{
+  "header": {
+    "companyLogo": "./favicon.ico",
+    "companyName": "🚀 Acme Rockets ",
+    "menues": [
+      {
+        "id": "our-rockets",
+        "name": "Our Rockets",
+        "url": "#rocket-section"
+      },
+      {
+        "id": "our-testimonials",
+        "name": "Our Testimonials",
+        "url": "#ourTestimonials"
+      },
+      {
+        "id": "contact-us",
+        "name": "Contact Us",
+        "url": "#rocket-section"
+      }
+    ]
+  },
+  "heroSection": {
+    "id": "hero",
+    "title": "We Boldly Go Where No Rocket Has Gone Before...",
+    "subTitle": "We're building rockets for the next century today. From the moon to Mars, Jupiter and beyond..",
+    "description": "Think Acme Rockets.",
+    "image": "./rocketdab.png"
+  },
+  "ourRockets": {
+    "title": "Our Rockets",
+    "id": "rocket-section",
+    "items": [
+      {
+        "id": "rocket-1",
+        "name": "Explorer",
+        "description": "Affordable Exploration",
+        "code": "INR",
+        "image": "./rocketride.png"
+      },
+      {
+        "id": "rocket-2",
+        "name": "Adventure",
+        "description": "Best Selling Rocket",
+        "code": "INR",
+        "image": "./rocketman.png"
+      },
+      {
+        "id": "rocket-3",
+        "name": "Infinity",
+        "description": "Luxury Starship",
+        "code": "INR",
+        "image": "./rocketlaunch.png"
+      }
+    ]
+  },
+  "ourTestimonials": {
+    "title": "Our Testimonials",
+    "items": [
+      {
+        "id": "testimonial-1",
+        "name": "Wile E. Coyote, Genius",
+        "description": "Acme has always been there for me. Their Explorer rocket arrived in a wooden crate as expected. Life-long customer! A++ shopping experience."
+      },
+      {
+        "id": "testimonial-2",
+        "name": "Jane Doe",
+        "description": "The Acme Adventurer Rocket has thwarted my Illudium Q-36 Explosive Space Modulator on several occassions. This makes me very, very angry! Nevertheless, K-9 and I have awarded Acme the Martian contract for space exploration rockets based on Acme's quality and sturdy designs."
+      },
+      {
+        "id": "testimonial-3",
+        "name": "Jack Doe",
+        "description": "I knew I not only wanted — I needed — Acme's Infinity Rocket for my mission in space. Acme delivered in one day! Nothing says Take me to your leader like Acme's Infinity Rocket! 💯"
+      }
+    ]
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "address": "123 Main St, Springfield, IL 62701",
+    "phone": "555-555-5555",
+    "email": ""
+  },
+  "footer": {
+    "socialLinks": [
+      {
+        "id": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/acme-rockets"
+      },
+      {
+        "id": "twitter",
+        "name": "Twitter",
+        "url": "https://www.twitter.com/acme-rockets"
+      },
+      {
+        "id": "instagram",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/acme-rockets"
+      }
+    ],
+    "links": [
+      {
+        "id": "privacy-policy",
+        "name": "Privacy Policy"
+      },
+      {
+        "id": "terms-of-service",
+        "name": "Terms of Service"
+      }
+    ],
+    "companyInfo": {
+      "name": "Acme Rocket-Powered Products, Inc.",
+      "address": "123 Main St, Springfield, IL 62701",
+      "phone": "555-555-5555",
+      "email": "inquiries@acmerockets.com"
+    },
+    "copyright": {
+      "title": "Copyright"
+    }
+  }
+}
